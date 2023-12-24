@@ -12,9 +12,11 @@ Starting:
 ### contact with me:
 
 <p>
-  <a href="https://www.instagram.com/welmolinafs00/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/welmolinafs00/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>     <a href="https://wa.me/5511977132552?text=Wellington+Desenvolvedor+front+end" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt ="Whatshapp" /></a>
+
+   
+
 <br>
-  <br>
 </p>
 
 
